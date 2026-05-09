@@ -2,6 +2,8 @@ module github.com/mfridman/goose
 
 go 1.21
 
+// Personal fork of pressly/goose for learning and experimentation.
+// Upstream: https://github.com/pressly/goose
 require (
 	github.com/mfridman/interpolate v0.0.2
 	github.com/pressly/goose/v3 v3.17.0
